@@ -1,0 +1,19 @@
+{
+  "name": "photeus",
+  "version": "0.0.1",
+  "description": "photeus bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Photeus-Org/Photeus.git"
+  },
+  "author": "Frédéric Lang <f.lang@hotmail.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Photeus-Org/Photeus/issues"
+  },
+  "homepage": "https://github.com/Photeus-Org/Photeus#readme"
+}
